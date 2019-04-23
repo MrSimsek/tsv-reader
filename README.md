@@ -20,7 +20,7 @@ npm uninstall -g tsv-reader
 
 ```sh
 cd /path/to/tsv-file
-tsv-reader <tsv-filename-without-extension>
+tsv-reader <tsv-filename>
 ```
 
 * The app can take **.tsv** and **.txt** files as input.
