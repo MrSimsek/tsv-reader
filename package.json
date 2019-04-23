@@ -1,6 +1,6 @@
 {
   "name": "tsv-reader",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "TSV reader CLI app built with NodeJS",
   "main": "./lib/tsvReader.js",
   "preferGlobal": true,
@@ -8,7 +8,9 @@
     "fix-code": "prettier-eslint --write 'src/**/*.{js,jsx}' ",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["cli"],
+  "keywords": [
+    "cli"
+  ],
   "author": "Deniz Simsek denizsimsek93@gmail.com",
   "license": "ISC",
   "bin": {
