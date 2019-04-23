@@ -5,7 +5,7 @@ TSV reader CLI app built with NodeJS
 npm install -g tsv-reader
 ```
 
-## Quick Overview
+## Usage
 
 ```sh
 cd /path/to/tsv-file
