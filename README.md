@@ -1,5 +1,7 @@
 # tsv-reader
 
+![Sample Output with tsv-reader](https://raw.githubusercontent.com/MrSimsek/tsv-reader/master/data/output.png)
+
 TSV reader CLI app built with NodeJS
 
 ```sh
