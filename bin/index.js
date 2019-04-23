@@ -1,9 +1,11 @@
 #!/usr/bin/env node
 
-const _ = require("lodash");
 const tsvReader = require('../lib/tsvReader');
 
 const arguments = process.argv.splice(2);
-const tsvFilename = _.head(arguments);
+const tsvFilename = arguments[0];
+const tsvFilenameWithoutExt = tsvFilename.split('.').shift();
 
-tsvReader.read(tsvFilename);
+const column = arguments[1];
+
+tsvReader.read(tsvFilenameWithoutExt, column);
