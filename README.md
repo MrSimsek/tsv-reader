@@ -9,6 +9,6 @@ npm install -g tsv-reader
 
 ```sh
 cd /path/to/tsv-file
-tsv-reader <tsv-filename>
+tsv-reader <tsv-filename-without-extension>
 ```
 * You can use this site to generate random TSV data: https://onlinerandomtools.com/generate-random-tsv
