@@ -1,6 +1,6 @@
 {
   "name": "tsv-reader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "TSV reader CLI app built with NodeJS",
   "main": "./lib/tsvReader.js",
   "preferGlobal": true,
