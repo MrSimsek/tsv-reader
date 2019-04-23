@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "TSV reader CLI app built with NodeJS",
   "main": "./lib/tsvReader.js",
+  "preferGlobal": true,
   "scripts": {
     "fix-code": "prettier-eslint --write 'src/**/*.{js,jsx}' ",
     "test": "echo \"Error: no test specified\" && exit 1"
