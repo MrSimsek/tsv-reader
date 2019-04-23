@@ -8,7 +8,7 @@
     "fix-code": "prettier-eslint --write 'src/**/*.{js,jsx}' ",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": ["cli"],
   "author": "Deniz Simsek denizsimsek93@gmail.com",
   "license": "ISC",
   "bin": {
