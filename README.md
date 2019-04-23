@@ -4,11 +4,19 @@ TSV reader CLI app built with NodeJS
 
 ![Sample Output with tsv-reader](https://raw.githubusercontent.com/MrSimsek/tsv-reader/master/data/output.png)
 
+## Install
+
 ```sh
 npm install -g tsv-reader
 ```
 
-## Usage
+## Uninstall
+
+```sh
+npm uninstall -g tsv-reader
+```
+
+## Use
 
 ```sh
 cd /path/to/tsv-file
